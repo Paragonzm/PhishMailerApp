@@ -1,6 +1,6 @@
 # PhishMailer
 
-**Coded by ZeusIGL**
+**Coded by Paragon**
 
 Generate Professional Phishing Emails Fast And Easy
 
