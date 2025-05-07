@@ -1,6 +1,6 @@
 # PhishMailer
 
-**Coded by ZEUS.IGL**
+**Coded by ZeusIGL**
 
 Generate Professional Phishing Emails Fast And Easy
 
